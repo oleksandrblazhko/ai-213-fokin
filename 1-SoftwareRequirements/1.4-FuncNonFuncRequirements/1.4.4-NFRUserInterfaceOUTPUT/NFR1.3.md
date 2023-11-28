@@ -1,4 +1,3 @@
 Вимога NFR1.2 = Вимога FR2.3:
 
-
-![NFR2 3](https://github.com/oleksandrblazhko/ai-213-fokin/blob/3e617dc97f43b4da163df554a525dfea2772fa44/1-SoftwareRequirements/1.4-FuncNonFuncRequirements/1.4.4-NFRUserInterfaceOUTPUT/NFR1.3.drawio)
+![image](https://github.com/oleksandrblazhko/ai-213-fokin/assets/79007252/58f887b2-f495-4d51-9682-38d6afd3f17a)
