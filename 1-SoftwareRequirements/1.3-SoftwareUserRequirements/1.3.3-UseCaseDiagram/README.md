@@ -1,3 +1,2 @@
 ### Діаграма прецедентів програмного продукту
-![image](https://github.com/oleksandrblazhko/ai-213-fokin/assets/79007252/28c4ef81-1698-40f8-b92d-f63a29038231)
-
+![image](https://github.com/oleksandrblazhko/ai-213-fokin/assets/79007252/6008286c-ae50-4600-bf94-295b942bab4a)
