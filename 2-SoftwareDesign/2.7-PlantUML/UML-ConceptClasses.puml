@@ -1,0 +1,29 @@
+@startuml
+hide circle
+title Example of Classes Diagram 
+
+Class SafeLight_Bot{
+    measired_light_condition
+    light_analysis
+    providing_reccommendations
+}
+
+Class Answer_on_request{
+    measired_light_condition
+    answer_timee
+    answer_status
+}
+
+Class Request_light_condition{
+    location
+    request_time
+    reauest_status
+}
+
+
+SafeLight_Bot"1" --> "+"Answer_on_request: ProcessesAnswer
+
+Answer_on_request"+" --> "1"Request_light_condition: AnswersRequest
+
+SafeLight_Bot"1" --> "+"Request_light_condition: AssistUser
+@enduml
