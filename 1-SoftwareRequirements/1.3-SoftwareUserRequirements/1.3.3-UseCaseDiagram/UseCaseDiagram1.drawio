@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2023-11-29T08:51:08.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hNh4cSnp9mUW0tey2TQo" version="22.1.4" type="device">
+  <diagram id="wvCt9DyCB_mfvd3ehwam" name="Страница 1">
+    <mxGraphModel dx="1050" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0lYjs5nUBAw5hnGAxDbw-1" target="0lYjs5nUBAw5hnGAxDbw-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0lYjs5nUBAw5hnGAxDbw-1" target="0lYjs5nUBAw5hnGAxDbw-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="105" y="220" />
+              <mxPoint x="290" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0lYjs5nUBAw5hnGAxDbw-1" target="0lYjs5nUBAw5hnGAxDbw-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="280" />
+              <mxPoint x="490" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0lYjs5nUBAw5hnGAxDbw-1" target="0lYjs5nUBAw5hnGAxDbw-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="105" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-1" value="Користувач" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0lYjs5nUBAw5hnGAxDbw-2" target="0lYjs5nUBAw5hnGAxDbw-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-2" value="Метеослужба &quot;WeatherAPI&quot;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="0lYjs5nUBAw5hnGAxDbw-6" target="0lYjs5nUBAw5hnGAxDbw-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-6" value="Вхід в систему" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-7" value="Перегляд інформації про якість повітря" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.63;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0lYjs5nUBAw5hnGAxDbw-8" target="0lYjs5nUBAw5hnGAxDbw-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="416" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-8" value="Надання рекомендацій щодо заходів" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-9" value="Спілкування з іншими користувачами" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-20" value="&amp;lt;&amp;lt;extended&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0lYjs5nUBAw5hnGAxDbw-22" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="80" width="460" height="460" as="geometry">
+            <mxRectangle x="130" y="80" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
