@@ -1,2 +1,1 @@
-![image](https://github.com/oleksandrblazhko/ai-213-fokin/assets/79007252/b6ee4099-67f7-4ebd-a8d7-fcb371c8b4a9)
-
+![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/oleksandrblazhko/ai-213-fokin/Laboratory-Work-%237/2-SoftwareDesign/2.7-PlantUML/UML-ConceptClasses.puml)
