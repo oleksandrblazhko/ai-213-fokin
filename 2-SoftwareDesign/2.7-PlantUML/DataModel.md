@@ -1,2 +1,2 @@
-![image](https://github.com/oleksandrblazhko/ai-213-fokin/assets/79007252/a6e258b3-51d8-4b06-bc5f-582515c7ec3f)
+![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/oleksandrblazhko/ai-213-fokin/Laboratory-Work-%237/2-SoftwareDesign/2.7-PlantUML/DataModel.puml)
 
