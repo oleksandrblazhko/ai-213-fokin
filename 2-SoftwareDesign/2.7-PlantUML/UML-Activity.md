@@ -1,1 +1,1 @@
-![image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.https://github.com/oleksandrblazhko/ai-213-fokin/blob/bd6cf87f01002415adbdf39b1b7037734f9789f7/2-SoftwareDesign/2.7-PlantUML/UML-Activity.puml)
+![image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/oleksandrblazhko/ai-213-fokin/Laboratory-Work-%237/2-SoftwareDesign/2.7-PlantUML/UML-Activity.puml)
